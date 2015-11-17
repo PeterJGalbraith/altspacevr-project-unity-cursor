@@ -1,0 +1,35 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.129 seconds
+desktop: 1920x1080 60Hz; virtual: 3360x1980 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\Peter\Documents\GitHub\altspacevr-project-unity-cursor\Builds\PeterJGalbraith's Builds\Part 1 - Complete_Data\Managed\Boo.Lang.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2f750 -> priority: 1 
+  Thread -> id: 1818c -> priority: 1 

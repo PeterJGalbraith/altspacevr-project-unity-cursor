@@ -32,7 +32,7 @@ public class MouseLook : MonoBehaviour {
 
 	void Update ()
 	{
-		if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+		if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift) || Input.GetButton("Fire2")) //Added right click and hold for look around (more like Unity editor controls)
 		{
 			if (axes == RotationAxes.MouseXAndY)
 			{

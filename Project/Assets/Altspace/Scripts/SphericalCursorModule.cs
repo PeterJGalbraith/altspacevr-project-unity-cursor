@@ -85,5 +85,11 @@ public class SphericalCursorModule : MonoBehaviour {
 			//Set the cursor's scale to be the default scale defined in our application
 			Cursor.transform.localScale = DefaultCursorScale;
 		}
+
+		//Part 2: If there is an interactable object, apply a force based on the mouse scrollwheel direction and the forward direction of the cursor at a point on the object
+		float scrollAmt = Input.GetAxis ("Mouse ScrollWheel");
+		if (scrollAmt != 0 && cursorHit.collider != null) {
+			cursorHit.rigidbody.AddForceAtPosition(camToCursorDirection * 500.0f * scrollAmt, cursorHit.point);
+		}
 	}
 }
